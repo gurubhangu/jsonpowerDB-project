@@ -12,5 +12,5 @@
 - It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
-SCREENSHOT-
-![Dashboard]
+### SCREENSHOT-
+![Dashboard](https://github.com/gurubhangu/jsonpowerDB-project/blob/c2467b5b4c0f3ea76be060fd05e44a34c7f5a908/home.PNG)
